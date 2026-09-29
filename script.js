@@ -3,8 +3,8 @@
 const profile = { name: "Sri Harsha Vardan", email: "hk.harshapshv@gmail.com.com", heroImage: "assets/hero.jpg" };
 
 const projects = [
-  { title: "Nova Banking App", category: "UI/UX Design", description: "Redesigning a mobile banking flow around clarity and trust.", image: "assets/projects/nova.jpg", liveLink: "#", caseStudyLink: "#" },
-  { title: "Aster Brand System", category: "Brand Identity", description: "Full identity system for a wellness studio, from mark to packaging.", image: "assets/projects/aster.jpg", liveLink: "#", caseStudyLink: "#" },
+  { title: "TLB Book Reading App", category: "UI/UX Design", description: "Designed a mobile application for TLB that enables users to read, publish, and discover books.", image: "assets/tlb-app.png", liveLink: "https://www.figma.com/design/GvoFI9QBpaRKPO7zlR9mda/tlb-bookpage?node-id=150-98&p=f&t=oTaMNnWRcePe6VmH-0", caseStudyLink: "#" },
+  { title: "NGDT | Logo & Brand Identity Design", category: "Brand Identity", description: "A complete brand identity design for NextGen Defence Technologies (NGDT)", image: "assets/ngdt-hero.png", liveLink: "https://www.behance.net/gallery/256435841/NGDT-Logo-Brand-Identity-Design", caseStudyLink: "https://www.behance.net/gallery/256435841/NGDT-Logo-Brand-Identity-Design" },
   { title: "Fieldnotes Campaign", category: "Graphic Design", description: "Print and social campaign for a travel magazine.", image: "assets/projects/fieldnotes.jpg", liveLink: "#", caseStudyLink: "#" },
   { title: "TLB City Recap", category: "Video Production", description: "Highlight edit and motion titles for a city-wide event series.", image: "assets/projects/tlb.jpg", liveLink: "#", caseStudyLink: "#" }
 ];
